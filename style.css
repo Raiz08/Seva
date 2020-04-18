@@ -1,0 +1,21 @@
+h1{
+    color:darkslategrey;
+    border: 5px solid black;
+    border-radius: 5px;
+    background-color:lightblue;
+    text-align: center;
+    font-weight: 300 bold;
+    font-style: unset;
+}
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;;
+}
+p{
+    font-size: x-large;
+    text-align: center;
+    
+    
+}
